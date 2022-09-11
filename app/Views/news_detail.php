@@ -1,4 +1,4 @@
-<!-- coba revisi git-->
+<!-- coba revisi kedua git -->
 <?= $this->extend('layout/post_layout') ?>
 
 <?= $this->section('content') ?>
