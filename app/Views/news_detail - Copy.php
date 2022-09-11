@@ -1,4 +1,3 @@
-<!-- coba revisi git-->
 <?= $this->extend('layout/post_layout') ?>
 
 <?= $this->section('content') ?>
